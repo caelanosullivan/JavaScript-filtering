@@ -30,3 +30,7 @@ write JavaScript code so the user can to set multiple filters and search for UFO
 ### Dataset
 
 * [UFO Sightings Data](Data/data.js)
+
+## Preview
+
+![Just beam us up](UFO_Sightings_preview.png)
