@@ -1,6 +1,7 @@
 # UFO Eyewitness Sightings | JavaScript and DOM Manipulation
 
-!(https://github.com/caelanosullivan/JavaScript-filtering/blob/master/Images/ufo.jpg)
+![](https://github.com/caelanosullivan/JavaScript-filtering/blob/master/Images/ufo.jpg)
+![](Images/ufo.jpg)
 
 ## Purpose
 
