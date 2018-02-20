@@ -1,5 +1,7 @@
 # UFO Eyewitness Sightings | JavaScript and DOM Manipulation
 
+![Images/ufo.jpg]
+
 ## Purpose
 
 I set out to solve the everyman's problem: it's simply too difficult to stay on top of UFO sightings these days. Moreover, I wanted to create a dead-simple, user-centric interface that would empower users to research and discover historical trends in UFO sightings over the years.
